@@ -7,7 +7,7 @@
 void main() {
 	
 	int gd=DETECT,gm;
-	int r,i=0;
+	int r,i,xc,yc;
 	clrscr();
 	initgraph(&gd,&gm,"");
 	printf("Enter the center coordinates");
