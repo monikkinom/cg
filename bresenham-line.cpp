@@ -83,6 +83,7 @@ void main() {
 	}
 
 	getch();
+	
 	closegraph();
 }
 
