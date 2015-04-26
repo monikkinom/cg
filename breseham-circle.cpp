@@ -26,7 +26,7 @@ void main() {
 
 	while(x<y)
 	{
-		//mark it for all quandrants
+		//mark it for all octants
 		putpixel(300+x,250+y,RED);
 		putpixel(300-x,250+y,RED);
 		putpixel(300+x,250-y,RED);
